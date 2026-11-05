@@ -1,0 +1,51 @@
+{
+  "student": "Alumno de ejemplo",
+  "generated_at": "2026-10-23T18:36:06.228901+00:00",
+  "predictions": [
+    {
+      "ticker": "V",
+      "horizon": "1W",
+      "rank": 1
+    },
+    {
+      "ticker": "TSLA",
+      "horizon": "1W",
+      "rank": 2
+    },
+    {
+      "ticker": "AAPL",
+      "horizon": "1W",
+      "rank": 3
+    },
+    {
+      "ticker": "V",
+      "horizon": "1M",
+      "rank": 1
+    },
+    {
+      "ticker": "MSFT",
+      "horizon": "1M",
+      "rank": 2
+    },
+    {
+      "ticker": "AAPL",
+      "horizon": "1M",
+      "rank": 3
+    },
+    {
+      "ticker": "MSFT",
+      "horizon": "3M",
+      "rank": 1
+    },
+    {
+      "ticker": "TSLA",
+      "horizon": "3M",
+      "rank": 2
+    },
+    {
+      "ticker": "V",
+      "horizon": "3M",
+      "rank": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[project]
+name = "lasalle-investing-starter"
+version = "0.1.0"
+description = "Base de los proyectos LaSalle: datos incluidos, selección común y API"
+requires-python = ">=3.11,<3.13"
+dependencies = ["fastapi>=0.115,<1", "uvicorn>=0.32,<1"]
+
+[dependency-groups]
+dev = ["pytest>=8,<9", "httpx>=0.28,<1"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

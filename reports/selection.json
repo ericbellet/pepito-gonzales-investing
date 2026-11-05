@@ -1,0 +1,170 @@
+{
+  "snapshot_date": "2026-10-22",
+  "universe": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "META",
+    "GOOGL",
+    "AMZN",
+    "TSLA",
+    "JPM",
+    "V",
+    "NFLX"
+  ],
+  "candidates": [
+    {
+      "ticker": "V",
+      "horizon": "1W",
+      "score": 0.033702966973507206
+    },
+    {
+      "ticker": "TSLA",
+      "horizon": "1W",
+      "score": 0.027836385157793304
+    },
+    {
+      "ticker": "AAPL",
+      "horizon": "1W",
+      "score": 0.015557784853088978
+    },
+    {
+      "ticker": "JPM",
+      "horizon": "1W",
+      "score": 0.000766947698454974
+    },
+    {
+      "ticker": "AMZN",
+      "horizon": "1W",
+      "score": -0.02220170312678912
+    },
+    {
+      "ticker": "NVDA",
+      "horizon": "1W",
+      "score": -0.02761578062871596
+    },
+    {
+      "ticker": "MSFT",
+      "horizon": "1W",
+      "score": -0.03762550331134055
+    },
+    {
+      "ticker": "GOOGL",
+      "horizon": "1W",
+      "score": -0.07478404437460145
+    },
+    {
+      "ticker": "NFLX",
+      "horizon": "1W",
+      "score": -0.08191420514826739
+    },
+    {
+      "ticker": "META",
+      "horizon": "1W",
+      "score": -0.1258203038472341
+    },
+    {
+      "ticker": "V",
+      "horizon": "1M",
+      "score": 0.12319022931976513
+    },
+    {
+      "ticker": "MSFT",
+      "horizon": "1M",
+      "score": 0.04290229381957974
+    },
+    {
+      "ticker": "AAPL",
+      "horizon": "1M",
+      "score": 0.03398646989737705
+    },
+    {
+      "ticker": "AMZN",
+      "horizon": "1M",
+      "score": -0.0009991469925894865
+    },
+    {
+      "ticker": "JPM",
+      "horizon": "1M",
+      "score": -0.008209658160852621
+    },
+    {
+      "ticker": "TSLA",
+      "horizon": "1M",
+      "score": -0.01454911201649677
+    },
+    {
+      "ticker": "GOOGL",
+      "horizon": "1M",
+      "score": -0.05618105171107573
+    },
+    {
+      "ticker": "NVDA",
+      "horizon": "1M",
+      "score": -0.059587256458956364
+    },
+    {
+      "ticker": "NFLX",
+      "horizon": "1M",
+      "score": -0.07045507156785932
+    },
+    {
+      "ticker": "META",
+      "horizon": "1M",
+      "score": -0.17211128677175183
+    },
+    {
+      "ticker": "MSFT",
+      "horizon": "3M",
+      "score": 0.33066491372557966
+    },
+    {
+      "ticker": "TSLA",
+      "horizon": "3M",
+      "score": 0.2499726907283294
+    },
+    {
+      "ticker": "V",
+      "horizon": "3M",
+      "score": 0.12089996605646584
+    },
+    {
+      "ticker": "NVDA",
+      "horizon": "3M",
+      "score": 0.11232933986240189
+    },
+    {
+      "ticker": "META",
+      "horizon": "3M",
+      "score": 0.10144154739733112
+    },
+    {
+      "ticker": "AMZN",
+      "horizon": "3M",
+      "score": 0.09968983463255712
+    },
+    {
+      "ticker": "AAPL",
+      "horizon": "3M",
+      "score": 0.027028527578308616
+    },
+    {
+      "ticker": "JPM",
+      "horizon": "3M",
+      "score": -0.025944277522281126
+    },
+    {
+      "ticker": "GOOGL",
+      "horizon": "3M",
+      "score": -0.04029014131199043
+    },
+    {
+      "ticker": "NFLX",
+      "horizon": "3M",
+      "score": -0.09470643692856459
+    }
+  ],
+  "generated_at": "2026-10-23T18:36:06.228901+00:00",
+  "strategy_sha256": "f0adab01466351fcb624f1f726c5d0fac8e1e395fdd851da65d6c8beefd16098",
+  "features_sha256": "80afb7ae3242a187530db32f036c343cb3a43c68fbac62cc7821afbe3202f666"
+}

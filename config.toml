@@ -1,0 +1,3 @@
+student = "Alumno de ejemplo"
+# Son ejemplos. Puedes sustituirlos por otras acciones con datos disponibles.
+tickers = ["AAPL", "MSFT", "NVDA", "META", "GOOGL", "AMZN", "TSLA", "JPM", "V", "NFLX"]

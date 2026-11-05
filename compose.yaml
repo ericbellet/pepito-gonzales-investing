@@ -1,0 +1,13 @@
+name: lasalle-investing-starter
+services:
+  etl:
+    image: apache/spark:3.5.6
+    user: "0:0"
+    working_dir: /workspace
+    environment:
+      SPARK_LOCAL_IP: 127.0.0.1
+      PYTHONPATH: /workspace
+    volumes:
+      - .:/workspace
+    entrypoint: ["/opt/spark/bin/spark-submit"]
+    command: ["--master", "local[2]", "/workspace/etl_spark.py"]

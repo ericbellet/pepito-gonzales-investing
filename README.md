@@ -2,6 +2,8 @@
 
 > **Alumno ficticio: Pepito Gonzales.** Esta copia sirve para probar el recorrido de la guía y la integración con el leaderboard. Se ha generado desde la plantilla en la cuenta del profesor; no es un fork entre dos cuentas de GitHub. El alumnado debe seguir el procedimiento de fork explicado abajo desde su propia cuenta.
 
+[Ver a Pepito en el leaderboard](https://proyectolasalle20262027.vercel.app/leaderboard?student=pepito-gonzales-prueba) · [API pública](https://pepito-gonzales-investing.vercel.app/api/predictions) · [Evidencia de la prueba](reports/PRUEBA_INTEGRACION.md)
+
 Base común de los proyectos del curso: **datos ya descargados, ETL de referencia, selección Top 3 y API funcional**. Se mantiene el mismo código de selección inicial para todos. Cambiar la estrategia es opcional.
 
 La plataforma del campeonato la mantiene el profesor. Quien quiera colaborar puede proponer mejoras mediante issues y pull requests en [el repositorio de la plataforma](https://github.com/ericbellet/proyecto_lasalle_2026_2027). Esa colaboración es voluntaria.

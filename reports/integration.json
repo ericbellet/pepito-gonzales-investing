@@ -1,0 +1,46 @@
+{
+  "tested_at": "2026-11-05T18:11:57.676Z",
+  "platform": "https://proyectolasalle20262027.vercel.app",
+  "student": {
+    "id": "pepito-gonzales-prueba",
+    "name": "Pepito Gonzales",
+    "handle": "pepito-gonzales",
+    "url": "https://pepito-gonzales-investing.vercel.app/api/predictions",
+    "enabled": true
+  },
+  "registered": {
+    "id": "pepito-gonzales-prueba",
+    "name": "Pepito Gonzales"
+  },
+  "validation": {
+    "status": "healthy",
+    "predictions": 9,
+    "httpStatus": 200
+  },
+  "snapshot": {
+    "cycleId": "2026-W45",
+    "predictionsStored": 9,
+    "status": "healthy",
+    "payloadHash": "02c31f61c698a5bf"
+  },
+  "browser": {
+    "url": "https://proyectolasalle20262027.vercel.app/leaderboard?student=pepito-gonzales-prueba",
+    "unfilteredUrl": "https://proyectolasalle20262027.vercel.app/leaderboard",
+    "unfilteredVisible": true,
+    "status": 200,
+    "matchingRows": 10,
+    "rows": [
+      "— PG Pepito Gonzales PROVISIONAL 0 0.0% 0 0",
+      "Pepito Gonzales V 1W 15 Nov 2026 SCHEDULED — — —",
+      "Pepito Gonzales NFLX 1W 15 Nov 2026 SCHEDULED — — —",
+      "Pepito Gonzales MSFT 1W 15 Nov 2026 SCHEDULED — — —",
+      "Pepito Gonzales V 1M 06 Dec 2026 SCHEDULED — — —",
+      "Pepito Gonzales JPM 1M 06 Dec 2026 SCHEDULED — — —",
+      "Pepito Gonzales MSFT 1M 06 Dec 2026 SCHEDULED — — —",
+      "Pepito Gonzales V 3M 07 Feb 2027 SCHEDULED — — —",
+      "Pepito Gonzales TSLA 3M 07 Feb 2027 SCHEDULED — — —",
+      "Pepito Gonzales AAPL 3M 07 Feb 2027 SCHEDULED — — —"
+    ],
+    "consoleErrors": []
+  }
+}

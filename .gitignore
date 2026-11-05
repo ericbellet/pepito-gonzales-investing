@@ -8,3 +8,5 @@ __pycache__/
 lake/clean/prices/
 lake/curated/features/
 *.log
+.vercel
+.env*

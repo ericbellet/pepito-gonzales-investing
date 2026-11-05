@@ -1,0 +1,106 @@
+{
+  "source": "Yahoo Finance chart",
+  "files": [
+    {
+      "ticker": "AAPL",
+      "file": "AAPL.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:04.280948+00:00",
+      "sha256": "cc29b8b39660f99350397a669e7d3df7c9da5bee59a3c1b75cfd5b0fc8278985",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "MSFT",
+      "file": "MSFT.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:04.434424+00:00",
+      "sha256": "ad7a653991f03da62ea4c026a7280cb0c7c5695e8dc2cea14b94657a436b2919",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "NVDA",
+      "file": "NVDA.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/NVDA?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:04.589300+00:00",
+      "sha256": "af270f0d22eefd11ad14715ef3b23933d8010cac800c9030fa9ee7b65d900d86",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "META",
+      "file": "META.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/META?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:04.758921+00:00",
+      "sha256": "e009383e3ab3461e7c6bec0bcfdb1cf92a1eed783a6edbe9042a20673cfd8630",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "GOOGL",
+      "file": "GOOGL.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:04.911456+00:00",
+      "sha256": "966200c22ad8dae1a7ee0bc461e2241d24c43f184cdb3ce7dbc5f59a80a0994e",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "AMZN",
+      "file": "AMZN.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/AMZN?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:05.076261+00:00",
+      "sha256": "6c8de2933c586bbeb5d66e40619c5c29fdf0ded95ce54e0f0ac9ad92577db812",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "TSLA",
+      "file": "TSLA.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:05.247445+00:00",
+      "sha256": "59b4794f050e1c281832328a69d3b8372e690e717794123e75597170013aa100",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "JPM",
+      "file": "JPM.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/JPM?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:05.459024+00:00",
+      "sha256": "ef59bdf605621827f797060249ac5a4bae9d684efc56187c2419d68af2258b4f",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "V",
+      "file": "V.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/V?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:05.698097+00:00",
+      "sha256": "8fafafa0f463ae6f33b3e1683da93a561ac11d4f7b0802e5a050c7e173c7b205",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    },
+    {
+      "ticker": "NFLX",
+      "file": "NFLX.json",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/NFLX?interval=1d&period1=1775001600&period2=1793836800",
+      "provider": "Yahoo Finance chart",
+      "downloaded_at": "2026-11-05T17:57:05.921959+00:00",
+      "sha256": "d854a4a2f732a199f060d01a5a3bc53d6850dae62c6e0749d196cf858c5c545e",
+      "requested_start": "2026-04-01",
+      "requested_end": "2026-11-04"
+    }
+  ],
+  "note": "Snapshot de cierres diarios; acceso web no oficial, sujeto a disponibilidad del proveedor."
+}

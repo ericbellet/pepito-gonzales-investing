@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+.vercel/
+lake/
+reports/
+tests/
+docs/
+*.log

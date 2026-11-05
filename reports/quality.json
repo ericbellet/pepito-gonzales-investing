@@ -1,11 +1,11 @@
 {
   "engine": "pyspark",
-  "generated_at": "2026-10-23T18:28:22.907717+00:00",
-  "read": 1420,
+  "generated_at": "2026-11-05T17:58:34.248482+00:00",
+  "read": 1510,
   "rejected_null_close": 0,
-  "clean": 1420,
+  "clean": 1510,
   "companies": 10,
-  "snapshot_date": "2026-10-22",
-  "source_manifest": "lake/raw/yahoo/20261023T182525773928Z/manifest.json",
-  "parquet_reread": 1420
+  "snapshot_date": "2026-11-04",
+  "source_manifest": "lake/raw/yahoo/20261105T175703794522Z/manifest.json",
+  "parquet_reread": 1510
 }

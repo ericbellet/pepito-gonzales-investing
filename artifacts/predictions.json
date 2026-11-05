@@ -1,6 +1,6 @@
 {
-  "student": "Alumno de ejemplo",
-  "generated_at": "2026-10-23T18:36:06.228901+00:00",
+  "student": "Pepito Gonzales",
+  "generated_at": "2026-11-05T17:59:06.876360+00:00",
   "predictions": [
     {
       "ticker": "V",
@@ -8,12 +8,12 @@
       "rank": 1
     },
     {
-      "ticker": "TSLA",
+      "ticker": "NFLX",
       "horizon": "1W",
       "rank": 2
     },
     {
-      "ticker": "AAPL",
+      "ticker": "MSFT",
       "horizon": "1W",
       "rank": 3
     },
@@ -23,17 +23,17 @@
       "rank": 1
     },
     {
-      "ticker": "MSFT",
+      "ticker": "JPM",
       "horizon": "1M",
       "rank": 2
     },
     {
-      "ticker": "AAPL",
+      "ticker": "MSFT",
       "horizon": "1M",
       "rank": 3
     },
     {
-      "ticker": "MSFT",
+      "ticker": "V",
       "horizon": "3M",
       "rank": 1
     },
@@ -43,7 +43,7 @@
       "rank": 2
     },
     {
-      "ticker": "V",
+      "ticker": "AAPL",
       "horizon": "3M",
       "rank": 3
     }
